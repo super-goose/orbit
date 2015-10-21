@@ -1,0 +1,87 @@
+gravity
+
+sun - 1278  px/t^2
+
+mercury - 17  px/t^2
+
+venus - 42  px/t^2
+
+earth - 46  px/t^2
+
+mars - 17  px/t^2
+
+jupiter - 116  px/t^2
+
+saturn - 49  px/t^2
+
+double these because the values in the program are doubled!
+
+sun - 274 m/s^2
+mercury - 3.7 m/s^2
+venus - 8.9 m/s^2
+earth - 9.8 m/s^2
+mars - 3.7 m/s^2
+jupiter - 24.8 m/s^2
+saturn - 10.4 m/s^2
+
+
+# get final point of sum of all vectors
+# get angle of final point from all vectors
+# find point after one unit of time at new angle
+
+
+
+
+
+mercury
+36 mil miles
+88 earth days
+
+venus
+136 mil miles
+224 earth days
+
+earth
+188 mil miles
+365 earth days
+
+mars
+284 mil miles
+687 earth days
+
+
+
+
+
+Sun        695000  199000000
+
+Mercury      2440  33
+Venus        6052  487
+Earth        6378  597
+Mars         3397  64
+Jupiter     71492  190000
+Saturn      60268  56800
+Uranus      25559  8680
+Neptune     24766  102
+Pluto        1150  1
+
+Moon         1738  7
+
+
+
+
+
+
+Sun        695000  1.99e30  1.41    ? -26.    24.6
+
+Mercury      2440  3.30e23  5.43  .11  -1.9   58.6
+Venus        6052  4.87e24  5.24  .65  -4.4 -243 
+Earth        6378  5.97e24  5.52  .30   -      0.99
+Mars         3397  6.42e23  3.93  .15  -2.0    1.03
+Jupiter     71492  1.90e27  1.33  .52  -2.7    0.41
+Saturn      60268  5.68e26  0.69  .47   0.7    0.45
+Uranus      25559  8.68e25  1.32  .51   5.5   -0.72
+Neptune     24766  1.02e26  1.64  .41   7.8    0.67
+Pluto        1150  1.27e22  2.06  .55  13.6   -6.39  (z)
+
+Moon         1738  7.35e22  3.34  .12 -12.7     S
